@@ -1,4 +1,6 @@
 # Hi, I'm Roberto! 👋
+- Check my CV: [CV](https://github.com/Robert1Oo/Robert1oo/blob/main/Roberto_Junior_Security.pdf
+)
 Mechatronics Engineering graduate with hands-on experience in control systems, industrial
 automation, and embedded systems.
 

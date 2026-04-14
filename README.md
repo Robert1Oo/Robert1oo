@@ -1,28 +1,42 @@
 # Hi, I'm Roberto! 👋
+Mechatronics Engineering graduate with hands-on experience in control systems, industrial
+automation, and embedded systems.
 
-I'm a passionate Mechatronics Engineer with a focus on DevOps Engineering. Welcome to my GitHub profile!
-I'm currently learning how to use tools like Ansible, Terraform, Kubernetes, Docker, and GitHub Actions to create scalable and reliable infrastructure.
+Ranked Top 6% on TryHackMe (100+ labs completed). Skilled in web and network security testing, vulnerability assessment, and exploitation, with a strong foundation in real-time systems and industrial control environments.
 
-## 🚀 Skills and Tools
-- **Languages**: Python, C/C++, Bash.
-- **Operating Systems**: Linux (Void, Ubuntu).
-- **Automation & Configuration Management**: Ansible, Terraform
-- **Containerization & Orchestration**: Docker, Kubernetes
-- **Cloud Platforms**: AWS (EC2, S3, Lambda)
-- **CI/CD Pipelines**: GitHub Actions, Jenkins
-- **Version Control**: Git, GitHub
+Seeking entry-level roles in OT/ICS security, penetration testing, or security
+operations.
 
-## 🌟 Featured Projects
-Here are some of my recent projects that showcase my skills:
+## 🚀 Skills & Tools
 
-### [DevOps Automation with Terraform & Ansible](https://github.com/robert1oo/devops)
-A complete DevOps project automating the provisioning of AWS infrastructure and deployment of a Flask web application using Terraform and Ansible.
-Key features include:
-- Automated EC2 instance provisioning and configuration.
-- Deployment of Docker containers running Flask.
-- CI/CD pipeline setup with GitHub Actions for automated testing and deployment.
+### 🧠 Programming & Core
+- **Languages**: Python, C/C++, Bash  
+- **Operating Systems**: Linux (Void, Ubuntu, Mint, Kali, Parrot), Windows  
 
+### ⚙️ Control Systems & Engineering
+- MATLAB/Simulink, State-Space Modeling  
+- LQR Controllers, Sliding Mode Control  
+- Hardware-in-the-Loop (HIL) Testing  
 
+### 🏭 Industrial Automation
+- Sensors & Actuators, Motor Control  
+- PLC, DCS, SCADA, HMI Systems  
+
+### 🔐 Cybersecurity & Penetration Testing
+- **Web Vulnerabilities**: XSS, IDOR, CSRF, SSRF, SQL Injection, Command Injection  
+- **Methodology**: Reconnaissance → Enumeration → Exploitation → Reporting  
+- **Tools**: Burp Suite, Nmap, ffuf, Gobuster, Metasploit  
+
+### ☁️ DevOps & Cloud
+- Docker, Kubernetes  
+- Ansible, Terraform  
+- AWS (EC2, S3, Lambda)  
+- CI/CD: GitHub Actions, Jenkins  
+
+### 🧰 Practices & Workflow
+- Git, GitHub  
+- Agile (Scrum), planning & team leadership
+  
 
 ## 📫 Get in Touch
 - Email: oo.robert@yahoo.com

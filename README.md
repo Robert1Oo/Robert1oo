@@ -1,13 +1,12 @@
 # Hi, I'm Roberto! 👋
-- Check my CV: [CV](https://github.com/Robert1Oo/Robert1oo/blob/main/Roberto_Junior_Security.pdf)
+**Check my CV**: [CV](https://github.com/Robert1Oo/Robert1oo/blob/main/Roberto_Junior_Security.pdf)
 
 Mechatronics Engineering graduate with hands-on experience in control systems, industrial
 automation, and embedded systems.
 
-Ranked Top 6% on TryHackMe (100+ labs completed). Skilled in web and network security testing, vulnerability assessment, and exploitation, with a strong foundation in real-time systems and industrial control environments.
+Ranked Top 6% on [TryHackMe](https://tryhackme.com/p/DEPI4) (100+ labs completed). Skilled in web and network security testing, vulnerability assessment, and exploitation, with a strong foundation in real-time systems and industrial control environments.
 
-Seeking entry-level roles in OT/ICS security, penetration testing, or security
-operations.
+Seeking entry-level roles in OT/ICS security, penetration testing, or security operations.
 
 ## 🚀 Skills & Tools
 
@@ -22,24 +21,23 @@ operations.
 
 ### 🏭 Industrial Automation
 - Sensors & Actuators, Motor Control  
-- PLC, DCS, SCADA, HMI Systems  
+- PLC, DCS, SCADA, HMI
 
 ### 🔐 Cybersecurity & Penetration Testing
-- **Web Vulnerabilities**: XSS, IDOR, CSRF, SSRF, SQL Injection, Command Injection  
-- **Methodology**: Reconnaissance → Enumeration → Exploitation → Reporting  
-- **Tools**: Burp Suite, Nmap, ffuf, Gobuster, Metasploit  
+- **Web Vulnerabilities**: XSS, IDOR, CSRF, SSRF, SQL Injection, Command Injection
+- **Methodology**: Reconnaissance, Enumeration, Exploitatio, Privilege escalation and Reporting  
+- **Tools**: Burp Suite, Nmap, ffuf, Gobuster, Metasploit, and so many
 
 ### ☁️ DevOps & Cloud
 - Docker, Kubernetes  
 - Ansible, Terraform  
-- AWS (EC2, S3, Lambda)  
-- CI/CD: GitHub Actions, Jenkins  
+- AWS (EC2, S3, Lambda)
 
 ### 🧰 Practices & Workflow
 - Git, GitHub  
 - Agile (Scrum), planning & team leadership
   
-
 ## 📫 Get in Touch
 - Email: oo.robert@yahoo.com
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/robert1oo)
+- Twitter: [X.com](https://x.com/Robert1_Oo)

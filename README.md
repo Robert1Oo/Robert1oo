@@ -6,8 +6,6 @@ automation, and embedded systems.
 
 Ranked Top 6% on [TryHackMe](https://tryhackme.com/p/DEPI4) (100+ labs completed). Skilled in web and network security testing, vulnerability assessment, and exploitation, with a strong foundation in real-time systems and industrial control environments.
 
-Seeking entry-level roles in OT/ICS security, penetration testing, or security operations.
-
 ## 🚀 Skills & Tools
 
 ### 🧠 Programming & Core
